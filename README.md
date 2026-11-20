@@ -1,9 +1,17 @@
-<h1>Welcome to my GitHub profile <img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" height="30px"></h1>
+# Ufuk Çelik
 
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=muffuq&count_private=true&show_icons=true&theme=dark&hide_border=true&include_all_commits=true">
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muffuq&theme=dark&hide_border=true&layout=compact">
+Full-stack developer based in Eskişehir, Türkiye. I build web interfaces and the systems behind them.
 
+## What I do
 
-Hi 👋 I am a young developer from <img width="20" height="20" align="center" src="https://i.imgur.com/ff547ZT.png%22%3E"> Turkey. At the age of 14, I became interested in software and continued learning as a hobby. I am now 20 years old and I continue my career as a front-end developer.
+- **Front end:** React, Next.js, Astro, GSAP, Three.js
+- **Back end:** Node.js, .NET, PostgreSQL, MySQL, Redis, RabbitMQ
+- **Infrastructure:** Linux, Docker, Cloudflare, nginx, HAProxy
 
-The passion of programming started as a hobby at a young age and now I am always trying to improve my skills, always learning new things in my free times. I am more focused on web development since the latest years and I am trying to learn more about them.
+## Work
+
+- **Code9 Studio (founder, 2024 – present).** I build and sell add-on software for online multiplayer game servers: 15+ products, 100+ sales, a 1,000+ member customer community.
+- **Freelance (2024 – present).** A 200-player online gaming platform with its admin panel and cheat detection, DDoS protection for game servers, a real-time data service with crypto payments, and the front end of a 477,000-part online auto-parts store.
+- **igoaimalathane (front-end developer, 2022 – 2024).** Websites I built won 17 awards at Altın Örümcek, Horizon Awards and Bumerang, including Best Website for Simply Fresh, Baba Zula and GMW Kolaş.
+
+Most of my work is client or commercial code, so it lives in private repositories. The public ones here are side projects and experiments.
